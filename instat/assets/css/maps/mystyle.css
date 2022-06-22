@@ -1,0 +1,17 @@
+.container1 {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left:100mm;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    color: #b5e6de;
+}
+.font1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #b5e6de;
+}
+
